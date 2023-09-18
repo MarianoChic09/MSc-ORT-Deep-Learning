@@ -3,3 +3,5 @@ tensorboard
 ipykernel
 scikit-learn
 pydot
+pandas
+matplotlib
