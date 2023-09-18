@@ -1,3 +1,12 @@
 myenv/
 venv/
 events*
+
+*.csv
+
+data/
+
+*.rar
+*.zip
+
+*.pyc
